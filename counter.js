@@ -1,0 +1,2 @@
+let count = 0; 
+document.getElementById('counterBtn').addEventListener('click', () => { count++; console.log(count); });
